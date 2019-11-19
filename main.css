@@ -1,0 +1,19 @@
+.list{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  
+}
+.shop{
+  border: 1px dotted green;
+  flex-basis: 30%;
+  text-align: right;
+}
+.pageHeader{
+  font-size: 48px;
+  text-align: center;
+}
+body{
+background: url(https://www.https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNaPI96xS5UtI6CZOCzP6JPLtP8KPuNeDS3mCbwEeemTKwyTxZIw&sogle.com/imgres?imgurl=https%3A%2F%2Fassets3.thrillist.com%2Fv1%2Fimage%2F2788029%2Fsize%2Fgn-gift_guide_variable_c.jpg&imgrefurl=https%3A%2F%2Fwww.thrillist.com%2Fnews%2Fnation%2Fnational-coffee-day-deals-2018-free-coffee&docid=dEMDktBE-jpcrM&tbnid=zxj959DJCDnrDM%3A&vet=10ahUKEwjZobqQgurlAhWEmlkKHd7xAmkQMwigASgaMBo..i&w=970&h=514&bih=728&biw=1440&q=coffee&ved=0ahUKEwjZobqQgurlAhWEmlkKHd7xAmkQMwigASgaMBo&iact=mrc&uact=8);
+background-size: cover;
+}
